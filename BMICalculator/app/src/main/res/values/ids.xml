@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bmi_Output" type="id">bmi_Output</item>
+    <item name="weight_Status_Output" type="id">weightStatusOutput</item>
+    <item name="feetHeight" type="id">feetHeightInput</item>
+    <item name="inchesHeight" type="id">inchesHeightInput</item>
+    <item name="weightInput" type="id">weightInput</item>
+    <item name="title" type="id">titleInput</item>
+    <item name="calculateBMI" type="id">calculateBMIButton</item>
+</resources>

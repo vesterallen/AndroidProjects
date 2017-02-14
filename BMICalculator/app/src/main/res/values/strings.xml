@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="Height">height_field</string>
+    <string name="CalculateBMI">calculate_bmi</string>
+    <string name="Weight"></string>
+    <string name="weight_area">Weight</string>
+    <string name="height_area">Height</string>
+    <string name="calculate_BMI">Calculate BMI</string>
+    <string name="bmi_Output" />
+    <string name="weigth_Status_Output" />
+    <string name="feetHeightInput" />
+    <string name="inchesHeightInput" />
+    <string name="feetHeight" />
+    <string name="weightInputText" />
+    <string name="titleText">Body Mass Index (BMI)</string>
+    <string name="measure">lb</string>
+    <string name="feet">feet</string>
+    <string name="inches">inches</string>
+</resources>
